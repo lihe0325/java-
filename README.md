@@ -22,7 +22,7 @@ HardDisk定义两个属性分别为:硬盘价格，硬盘品牌.<br>
 Test 设置值 实例化.调用建立速度方法.<br>
 <h3>核心方法:</h3><br>
 构造方法 获取speed 设置speed<br>
-! [alt console](http://m.qpic.cn/psc?/V54cvp6h0srRYw1sRHqT4QtAdx1Tmx8H/ruAMsa53pVQWN7FLK88i5o68YILDQOE2K5U2udMyOjvSLHQJf9t8YbUCJbAGjmug.jUmwpC2GsbDg52JiK3tawDehmYNgnOeQuPSaf*HpmM!/mnull&bo=*QFCAQAAAAADB50!&rf=photolist&t=5)  <br>
+![alt console](http://m.qpic.cn/psc?/V54cvp6h0srRYw1sRHqT4QtAdx1Tmx8H/ruAMsa53pVQWN7FLK88i5o68YILDQOE2K5U2udMyOjvSLHQJf9t8YbUCJbAGjmug.jUmwpC2GsbDg52JiK3tawDehmYNgnOeQuPSaf*HpmM!/mnull&bo=*QFCAQAAAAADB50!&rf=photolist&t=5)  <br>
 私有方法 判断价格是否合理 <br>
 ![alt console](http://m.qpic.cn/psc?/V54cvp6h0srRYw1sRHqT4QtAdx1Tmx8H/45NBuzDIW489QBoVep5mcZbCF*vJsMh*4KRjvhJCZlOmKWm73LzOosYGO7tM0mAcdIa3RoeZiP4Snz331ikX45OLBVELC2cSHCwjhvHA8Tc!/b&bo=3gKyAAAAAAADF1w!&rf=viewer_4)<br>
 实例化名字 调用建立速度方法<br>
@@ -35,3 +35,4 @@ Test运行结果 <br>
 <h3>实验感想:</h3>
 注意：有参构造方法使用this表示调用当前对象，没有this的话，区分参数与速度。<br>
 构造方法应合理化，属性类型修饰符应多样化。<br>
+![alt console](http://m.qpic.cn/psc?/V528qTS74BHGMM1h1AFf33VeSW0R67RO/ruAMsa53pVQWN7FLK88i5vA77hWdJxUsf*8Lxq0GZrdnTwIsR689bLoI65*3guWPL5Zy.6nUIRIl1HCP86b5kVkW1IpIIVxous7eMc*RRmE!/b&bo=nwIHAQAAAAADB7k!&rf=viewer_4)
