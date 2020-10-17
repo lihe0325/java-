@@ -23,12 +23,27 @@ Test 设置值 实例化.调用建立速度方法.
 # 核心方法:  
 构造方法 获取speed 设置speed  
 ```
+public int getSpeed(){      //获取speed
+		return speed;
+	}
+	 public void setSpeed(int n){   //设置speed
+		 this.speed=n;
+	 }
 ```
 私有方法 判断价格是否合理      
 ```
+private void judge (float price){            //私有方法  判断价格是否合理
+		 if (price>=200 && price<=500){
+		  System.out.println("CPU的价格是"+price);
+		 }else {
+			 System.out.println("CPU价格不合理");
+			 }
+	 }
 ```
 实例化名字 调用建立速度方法     
 ```
+	CPU cpu = new CPU();   //实例化名字
+		cpu.setSpeed(2200);   //调用建立速度方法
 ```
 # 实验结果:  
 CPU运行结果    
