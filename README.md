@@ -22,16 +22,16 @@ HardDisk定义两个属性分别为:硬盘价格，硬盘品牌.<br>
 Test 设置值 实例化.调用建立速度方法.<br>
 <h3>核心方法:</h3><br>
 构造方法 获取speed 设置speed<br>
-![alt](http://m.qpic.cn/psc?/V54cvp6h0srRYw1sRHqT4QtAdx1Tmx8H/ruAMsa53pVQWN7FLK88i5o68YILDQOE2K5U2udMyOjvSLHQJf9t8YbUCJbAGjmug.jUmwpC2GsbDg52JiK3tawDehmYNgnOeQuPSaf*HpmM!/mnull&bo=*QFCAQAAAAADB50!&rf=photolist&t=5) <br>
+![alt console](http://m.qpic.cn/psc?/V54cvp6h0srRYw1sRHqT4QtAdx1Tmx8H/ruAMsa53pVQWN7FLK88i5o68YILDQOE2K5U2udMyOjvSLHQJf9t8YbUCJbAGjmug.jUmwpC2GsbDg52JiK3tawDehmYNgnOeQuPSaf*HpmM!/mnull&bo=*QFCAQAAAAADB50!&rf=photolist&t=5) <br>
 私有方法 判断价格是否合理 <br>
-![alt](http://m.qpic.cn/psc?/V54cvp6h0srRYw1sRHqT4QtAdx1Tmx8H/45NBuzDIW489QBoVep5mcZbCF*vJsMh*4KRjvhJCZlOmKWm73LzOosYGO7tM0mAcdIa3RoeZiP4Snz331ikX45OLBVELC2cSHCwjhvHA8Tc!/b&bo=3gKyAAAAAAADF1w!&rf=viewer_4)<br>
+![alt console](http://m.qpic.cn/psc?/V54cvp6h0srRYw1sRHqT4QtAdx1Tmx8H/45NBuzDIW489QBoVep5mcZbCF*vJsMh*4KRjvhJCZlOmKWm73LzOosYGO7tM0mAcdIa3RoeZiP4Snz331ikX45OLBVELC2cSHCwjhvHA8Tc!/b&bo=3gKyAAAAAAADF1w!&rf=viewer_4)<br>
 实例化名字 调用建立速度方法<br>
-![alt](http://m.qpic.cn/psc?/V54cvp6h0srRYw1sRHqT4QtAdx1Tmx8H/45NBuzDIW489QBoVep5mcZbCF*vJsMh*4KRjvhJCZlPGM9UqjQE..pi.TZfFsGLnlSNkLnnBGutX6oQivdn6xr6UH4HhsMd*oUkHGNBiIJA!/b&bo=dQI1AAAAAAADF3A!&rf=viewer_4)<br>
+![alt console](http://m.qpic.cn/psc?/V54cvp6h0srRYw1sRHqT4QtAdx1Tmx8H/45NBuzDIW489QBoVep5mcZbCF*vJsMh*4KRjvhJCZlPGM9UqjQE..pi.TZfFsGLnlSNkLnnBGutX6oQivdn6xr6UH4HhsMd*oUkHGNBiIJA!/b&bo=dQI1AAAAAAADF3A!&rf=viewer_4)<br>
 <h3>实验结果:</h3>
 CPU运行结果<br>
-![alt](http://m.qpic.cn/psc?/V54cvp6h0srRYw1sRHqT4QtAdx1Tmx8H/45NBuzDIW489QBoVep5mcaIj0SfXhbJ72xdzm.CtIlBnU1uL56Z04SR4v1qt2JJN1rmB0V3rQ6xdfo0EDMBFnwqj6DVfiq*ZYYSNMQhSu8c!/b&bo=8wF4AAAAAAADF7g!&rf=viewer_4)<br>
+![alt console](http://m.qpic.cn/psc?/V54cvp6h0srRYw1sRHqT4QtAdx1Tmx8H/45NBuzDIW489QBoVep5mcaIj0SfXhbJ72xdzm.CtIlBnU1uL56Z04SR4v1qt2JJN1rmB0V3rQ6xdfo0EDMBFnwqj6DVfiq*ZYYSNMQhSu8c!/b&bo=8wF4AAAAAAADF7g!&rf=viewer_4)<br>
 Test运行结果 <br>
-![alt](http://m.qpic.cn/psc?/V54cvp6h0srRYw1sRHqT4QtAdx1Tmx8H/45NBuzDIW489QBoVep5mcaIj0SfXhbJ72xdzm.CtIlDNAbeK6DWwTP13Jls9tyYimVs0nZrOtsS3T83*dK0Zjz2FlLkofYftRVtrNHJlmg0!/b&bo=3wGaAAAAAAADF3Y!&rf=viewer_4)<br>
+![alt console](http://m.qpic.cn/psc?/V54cvp6h0srRYw1sRHqT4QtAdx1Tmx8H/45NBuzDIW489QBoVep5mcaIj0SfXhbJ72xdzm.CtIlDNAbeK6DWwTP13Jls9tyYimVs0nZrOtsS3T83*dK0Zjz2FlLkofYftRVtrNHJlmg0!/b&bo=3wGaAAAAAAADF3Y!&rf=viewer_4)<br>
 <h3>实验感想:</h3>
 注意：有参构造方法使用this表示调用当前对象，没有this的话，区分参数与速度。<br>
 构造方法应合理化，属性类型修饰符应多样化。<br>
