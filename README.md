@@ -47,9 +47,9 @@ private void judge (float price){            //私有方法  判断价格是否�
 ```
 # 实验结果:  
 CPU运行结果    
-![alt console](http://m.qpic.cn/psc?/V528qTS74BHGMM1h1AFf33VeSW0R67RO/ruAMsa53pVQWN7FLK88i5vA77hWdJxUsf*8Lxq0GZrdnTwIsR689bLoI65*3guWPL5Zy.6nUIRIl1HCP86b5kVkW1IpIIVxous7eMc*RRmE!/b&bo=nwIHAQAAAAADB7k!&rf=viewer_4)  
+![alt console](http://m.qpic.cn/psc?/V54cvp6h0srRYw1sRHqT4QtAdx1Tmx8H/45NBuzDIW489QBoVep5mcaIj0SfXhbJ72xdzm.CtIlBnU1uL56Z04SR4v1qt2JJN1rmB0V3rQ6xdfo0EDMBFn6ElCgEbuxLXbwPJNwVO7Pg!/b&bo=8wF4AAAAAAADF7g!&rf=viewer_4)  
 Test运行结果      
-![alt console](http://m.qpic.cn/psc?/V528qTS74BHGMM1h1AFf33VeSW0R67RO/ruAMsa53pVQWN7FLK88i5vA77hWdJxUsf*8Lxq0GZrdnTwIsR689bLoI65*3guWPL5Zy.6nUIRIl1HCP86b5kVkW1IpIIVxous7eMc*RRmE!/b&bo=nwIHAQAAAAADB7k!&rf=viewer_4)   
+![alt console](http://m.qpic.cn/psc?/V54cvp6h0srRYw1sRHqT4QtAdx1Tmx8H/45NBuzDIW489QBoVep5mcaIj0SfXhbJ72xdzm.CtIlDNAbeK6DWwTP13Jls9tyYimVs0nZrOtsS3T83*dK0Zj6mY*thTzL0i*MFWDSE2eQw!/b&bo=3wGaAAAAAAADF3Y!&rf=viewer_4)   
 # 实验感想:  
 注意：有参构造方法使用this表示调用当前对象，没有this的话，区分参数与速度。  
 构造方法应合理化，属性类型修饰符应多样化。  
